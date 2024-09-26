@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Vecnavium/FormsUI"></a><br>
-    <b>A PocketMine-MP Virion that allows you to create forms. A longterm and ongoing support for this virion and will be done at it's best to improve. The project FormsUI has been taken from FormAPI to maintain and keeping it up to date for PocketMine API 4.0.0 and up.</b>
+    <b>A PocketMine-MP Virion that allows you to create forms. A longterm and ongoing support for this virion and will be done at it's best to improve. The project FormsUI has been taken from FormAPI to maintain and keeping it up to date for PocketMine API 5.0.0 and up.</b>
 </p>
 
 <p align="center">
