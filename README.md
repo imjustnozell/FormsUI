@@ -15,7 +15,7 @@ Pull Requests are welcomed. PRs must be related to changes that patch bugs or im
 
 # BugReport
 
-- Contact support in the [Discord Server](https://discord.gg/jWFB56RqUN)
+- Contact support in the [Discord Server](https://discord.gg/NvxR2SCyQY)
 
 - Create an [Issue](https://github.com/Vecnavium/FormsUI/issues/new)
 
